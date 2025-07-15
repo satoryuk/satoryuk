@@ -50,3 +50,15 @@ def who_am_i():
     🔄 Learning: {", ".join(currently_learning)}
     """
 print(who_am_i())
+````
+📫 Where to Find & Follow Me
+<p align="center">
+  <a href="https://www.instagram.com/thong_vathana/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@y0urbabe.na" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+✨ Crafted with ❤️ by Thong Vathana
+🐍 Keep coding and stay curious!
