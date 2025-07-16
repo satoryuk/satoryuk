@@ -65,7 +65,7 @@ print(who_am_i())
   <a href="https://www.threads.net/@thong_vathana" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
-    <a href="https://www.linkedin.com/in/Thong Vathana" target="_blank">
+    <a href="https://www.linkedin.com/in/thong-vathana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
