@@ -41,7 +41,7 @@ def who_am_i():
     name = "Thong Vathana"
     role = "ITE Student @ RUPP"
     passions = ["Web Development", "UI/UX"]
-    currently_learning = ["Nuxt JS"]
+    currently_learning = ["Angular"]
 
     return f"""
     👨‍💻 Name: {name}
