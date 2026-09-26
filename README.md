@@ -111,10 +111,14 @@ print(who_am_i())
 ```
 ---
 
-### 📊 GitHub Activity & Stats
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=satoryuk&theme=radical&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="97%" />
+  <img
+    src="https://raw.githubusercontent.com/mutieta/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
